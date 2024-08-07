@@ -119,7 +119,7 @@ recognition.onerror = function(event) {
 };
 
 recognition.onend = function() {
-    recognition.start(); // Reinicia o reconhecimento após terminar
+    recognition.start();
 };
 
 recognition.start();
