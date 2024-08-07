@@ -16,7 +16,7 @@ class Symbol {
         this.fontSize = fontSize;
         this.text = '';
         this.canvasHeight = canvasHeight;
-        this.color = '#ff0000';
+        this.color = '#00ff00';
     }
 
     draw(context) {
