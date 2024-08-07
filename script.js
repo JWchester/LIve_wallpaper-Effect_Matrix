@@ -4,7 +4,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 const backgroundImage = new Image();
-backgroundImage.src = 'KaliR2.png';
+backgroundImage.src = 'KaliG2.png';
 
 const backgroundImageOpacity = 0.02;
 
